@@ -5,6 +5,9 @@
 <img src="img/Age.gif" width="300"/>
 <img src="img/CellType.gif" width="500"/>
 
+## Use agreement
+Although these data are being made publicly available as part of the [CZI Computational Tools](meetings.czi.technology/human-cell-atlas/) working group, the producers consider these data as unpublished and expect that the data will be used in accord with standard scientific etiquette and practices concerning unpublished data. Researchers are encouraged to use these data exclusively for the development of novel methods to analyze scRNA-Seq related to cell-cell variation, trajectory analysis and cell type identification/characterization. Use of these data for other purposes requires the explicit consent of the creators prior to an embargo date of July 1st, 2018.
+
 ## Stats
 
 ### Sample/Batches
@@ -49,5 +52,3 @@ The count matrix is provided in .mtx format and can be downloaded here:
 |ENSMUSG00000109048 |ENSMUSG00000109048 |Rp1             |                   0| 0.0000000| 0.000000000|         NaN|         0.0000000|
 |ENSMUSG00000025902 |ENSMUSG00000025902 |Sox17           |                 108| 0.0016225| 0.077612551|  2288.30757|         0.0894010|
 
-## Use agreement
-Although these data are being made publicly available as part of the [CZI Computational Tools](meetings.czi.technology/human-cell-atlas/) working group, the producers consider these data as unpublished and expect that the data will be used in accord with standard scientific etiquette and practices concerning unpublished data. Researchers are encouraged to use these data exclusively for the development of novel methods to analyze scRNA-Seq related to cell-cell variation, trajectory analysis and cell type identification/characterization. Use of these data for other purposes requires the explicit consent of the creators prior to an embargo date of July 1st, 2018.
