@@ -6,7 +6,7 @@
 <img src="img/CellType.gif" width="500"/>
 
 ## Use agreement
-Although these data are being made publicly available as part of the [CZI Computational Tools](meetings.czi.technology/human-cell-atlas/) working group, the producers consider these data as unpublished and expect that the data will be used in accord with standard scientific etiquette and practices concerning unpublished data. Researchers are encouraged to use these data exclusively for the development of novel methods to analyze scRNA-Seq related to cell-cell variation, trajectory analysis and cell type identification/characterization. Use of these data for other purposes requires the explicit consent of the creators prior to an embargo date of September 30th, 2018.
+Although these data are being made publicly available as part of the [CZI Computational Tools](meetings.czi.technology/human-cell-atlas/) working group, the producers consider these data as unpublished and expect that the data will be used in accord with standard scientific etiquette and practices concerning unpublished data. Researchers are encouraged to use these data exclusively for the development of novel methods to analyze scRNA-Seq related to cell-cell variation, trajectory analysis and cell type identification/characterization. Use of these data for other purposes requires the explicit consent of the creators prior to an embargo date of January 1st, 2019.
 
 ## Stats
 
