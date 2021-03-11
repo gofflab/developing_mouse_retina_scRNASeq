@@ -29,6 +29,10 @@ The count matrix is provided in .mtx format and can be downloaded here:
 [10x_mouse_retina_development.mtx](https://www.dropbox.com/s/6d76z4grcnaxgcg/10x_mouse_retina_development.mtx?dl=0)
 
 ## Cellular Phenotype Data
+Updated on 3/11/21 to include annotation of horizontal cells:
+[10x_Mouse_retina_pData_umap2_CellType_annot_w_horiz.csv](https://www.dropbox.com/s/q5apkp52t0vy7lo/10x_Mouse_retina_pData_umap2_CellType_annot_w_horiz.csv?dl=0)
+
+Original annotations:
 [10x_mouse_retina_development_phenoData.csv](https://www.dropbox.com/s/y5lho9ifzoktjcs/10x_mouse_retina_development_phenotype.csv?dl=0)
 
 |                       |barcode                |sample |age | Size_Factor| num_genes_expressed| Total_mRNAs|CellType       | raw_cluster| umap_cluster| umap_coord1| umap_coord2| umap_coord3|umap_CellType |used_for_pseudotime |
